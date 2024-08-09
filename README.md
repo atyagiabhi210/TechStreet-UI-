@@ -16,6 +16,22 @@ The **core** folder contains app-wide utilities, including:
 - **App Theme**: Centralized theme management for the entire app.
 - **Data Models**: Models used throughout the app to maintain consistency.
 
+### Home Screen
+
+<img src="screenshots/images/home_page.jpeg" alt="Home Screen" width="300"/>
+
+### Favourite Screen
+
+<img src="screenshots/images/favourite_page.jpeg" alt="Favorite Screen" width="300"/>
+
+### Cart Screen
+
+<img src="screenshots/images/cart_page.jpeg" alt="Cart Screen" width="300"/>
+
+### Product Info
+
+<img src="screenshots/images/product_info.jpeg" alt="Product Info" width="300"/>
+
 ## Dependencies
 
 This project relies on the following Flutter packages:
