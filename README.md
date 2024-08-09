@@ -26,12 +26,11 @@ The **core** folder contains app-wide utilities, including:
 
 ### Cart Screen
 
-<img src="screenshots/images/cart_page.jpeg" alt="Cart Screen" width="300"/>
+<img src="screenshots/images/cart.jpeg" alt="Cart Screen" width="300"/>
 
 ### Product Info
 
-<img src="screenshots/images/product_info.jpeg" alt="Product Info" width="300"/>
-
+<img src="screenshots/images/product.jpeg" alt="Product Info" width="300"/>
 
 ## Dependencies
 
