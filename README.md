@@ -26,7 +26,7 @@ The **core** folder contains app-wide utilities, including:
 
 ### Cart Screen
 
-<img src="screenshots/images/cart_page.jpeg" alt="Cart Screen" width="300"/>
+<img src="screenshots/images/cart_page.jpeg" alt="Cart Screen" width="300" height="400"/>
 
 ### Product Info
 
