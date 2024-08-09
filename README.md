@@ -26,12 +26,17 @@ The **core** folder contains app-wide utilities, including:
 
 ### Cart Screen
 
-<img src="screenshots/images/cart_page.jpeg" alt="Cart Screen" width="300" height="400"/>
+<img src="screenshots/images/cart_page.jpeg" alt="Cart Screen" width="300"/>
 
 ### Product Info
 
 <img src="screenshots/images/product_info.jpeg" alt="Product Info" width="300"/>
 
+### App Demo
+
+<video src="screenshots/videos/app_recorder.mp4" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>
 ## Dependencies
 
 This project relies on the following Flutter packages:
