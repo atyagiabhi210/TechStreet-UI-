@@ -22,7 +22,7 @@ The **core** folder contains app-wide utilities, including:
 
 ### Favourite Screen
 
-<img src="screenshots/images/favourite_page.jpeg" alt="Favorite Screen" width="300"/>
+<img src="screenshots/images/favourite.jpeg" alt="Favorite Screen" width="300"/>
 
 ### Cart Screen
 
@@ -30,7 +30,7 @@ The **core** folder contains app-wide utilities, including:
 
 ### Product Info
 
-<img src="screenshots/images/product.jpeg" alt="Product Info" width="300"/>
+<img src="screenshots/images/product_info.jpeg" alt="Product Info" width="300"/>
 
 ## Dependencies
 
