@@ -1,6 +1,6 @@
-import 'package:tech_street/core/models/product.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:tech_street/core/models/product.dart';
 
 import '../../../core/theme/app_palette.dart';
 import '../../product_info/page/product_page.dart';
@@ -79,18 +79,25 @@ class FavouriteTileWidget extends StatelessWidget {
                 Row(
                   children: [
                     IconButton(
-                        onPressed: () {
-                          
-                          context.read<FavouriteBloc>().add(
-                                FavouriteRemoveFromListEvent(
-                                  product: product,
-                                ),
-                              );
-                        },
-                        icon:const Icon(Icons.favorite)),
+                      onPressed: () {
+                        context.read<FavouriteBloc>().add(
+                              FavouriteRemoveFromListEvent(
+                                product: product,
+                              ),
+                            );
+                      },
+                      icon: Icon(
+                        Icons.favorite,
+                        color: Theme.of(context).colorScheme.primary,
+                      ),
+                    ),
                     IconButton(
-                        onPressed: () {},
-                        icon:const Icon(Icons.shopping_bag_outlined)),
+                      onPressed: () {},
+                      icon: Icon(
+                        Icons.shopping_bag_outlined,
+                        color: Theme.of(context).colorScheme.primary,
+                      ),
+                    ),
                   ],
                 )
               ],

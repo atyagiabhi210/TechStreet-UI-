@@ -1,9 +1,9 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tech_street/core/theme/app_theme.dart';
 import 'package:tech_street/features/cart/bloc/cart_bloc.dart';
 import 'package:tech_street/features/favourites/bloc/bloc/favourite_bloc.dart';
 import 'package:tech_street/landing_page.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'features/home/bloc/home_bloc.dart';
 
