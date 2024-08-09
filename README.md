@@ -1,16 +1,26 @@
-# e_commerce_app_ui
+# Tech Street - E-Commerce App
 
-A new Flutter project.
+Welcome to **Tech Street**, an e-commerce Flutter application built using the feature-first approach and Bloc for state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **HomePage**: Discover the latest products and deals.
+- **ProductInfo Page**: Get detailed information about products.
+- **Favourites Page**: Save and manage your favorite items.
+- **Cart Page**: View and manage items in your cart.
 
-A few resources to get you started if this is your first Flutter project:
+## Core Folder
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The **core** folder contains app-wide utilities, including:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **App Theme**: Centralized theme management for the entire app.
+- **Data Models**: Models used throughout the app to maintain consistency.
+
+## Dependencies
+
+This project relies on the following Flutter packages:
+
+- `google_fonts: ^6.2.1`: For using Google Fonts in your app.
+- `water_drop_nav_bar: ^2.2.2`: A customizable bottom navigation bar with a water drop effect.
+- `carousel_slider: ^4.2.1`: For creating image carousels and sliders.
+- `flutter_bloc: ^8.1.6`: For implementing the Bloc pattern for state management.
